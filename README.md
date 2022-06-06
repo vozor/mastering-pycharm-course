@@ -53,7 +53,7 @@ Here's an example of concepts reviewing the database tools within PyCharm.
 
 Learning IDEs can be hard. There are just so many features. Unless you build that muscle memory with practice, most of them will be forgotten. Effective PyCharm has hands-on exercises for almost every chapter of the course.
 
-These exercises range in length from 10 minutes to about 30 minutes each.
+These exercises range in length from 10 minutes to about 30 minutes each
 
 ## Take the course
 
